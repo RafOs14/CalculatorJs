@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(87, 66, 158);
+    background-color: rgba(88, 66, 158, 0.378);
 }
 
 .body-calculator{
